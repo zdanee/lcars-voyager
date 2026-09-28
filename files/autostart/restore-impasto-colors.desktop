@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Restore Impasto color scheme
+Comment=kdeglobals' inline [Colors:*] sections outrank the ColorScheme name; regenerate them from the stock impasto palette when Plasma starts (the LCARS session re-pushes its own on startup)
+Exec=/usr/bin/python3 /home/zdanee/.config/quickshell/scripts/restore_kde_scheme.py
+NoDisplay=true
