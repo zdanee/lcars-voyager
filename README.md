@@ -81,7 +81,7 @@ git clone https://github.com/andreumassanet/impasto
 cd impasto && ./setup install
 
 # 1. the LCARS paint pass (user level, idempotent)
-git clone https://github.com/YOUR-NAME/lcars-voyager.git
+git clone https://github.com/zdanee/lcars-voyager.git
 cd lcars-voyager
 ./lcars-apply.sh            # LCARS_SKIP_HOME=1 keeps your own .zshrc
 
