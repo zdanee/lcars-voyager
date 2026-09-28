@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="screenshots/band.png" alt="LCARS band" width="100%">
-</p>
 
 <h1 align="center">Voyager LCARS — an impasto paint pass</h1>
 
@@ -50,10 +47,6 @@ look.
 - **Buttons do things**: Captain's log → task board · Delta quadrant →
   browser · Starfleet command → terminal · USS Voyager → quick settings ·
   Astrometrics → statistics · Ready room → notes.
-
-<p align="center">
-  <img src="screenshots/terminal.png" alt="Fresh terminal greeting, active and inactive titlebars" width="100%">
-</p>
 
 ## Keys
 
