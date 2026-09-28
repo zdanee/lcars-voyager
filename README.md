@@ -17,8 +17,7 @@
 This repo is a **paint pass**: a snapshot of a verified, running LCARS rice laid
 wholesale over a stock impasto install. Every file under `files/` lands in
 `~/.config/…` as-is, so re-running the apply after `./setup update` restores the
-look. The stock Plasma session stays untouched — you pick **LCARS · Voyager
-(Hyprland)** at the login screen.
+look. 
 
 ## What you get
 
